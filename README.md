@@ -1,4 +1,4 @@
-# Reverse-Google-Image-Search
+# Reverse Google Image Search
 
 Search by image and find where that image appears in Google.
 
